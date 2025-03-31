@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "discord": {
+    "clientId": "1234567890",
+    "smallImageText": "ts-potato",
+    "smallImageKey": "ts-potato",
+    "invite": "36cs84kbN7"
+  },
+  "servers": [
+    {
+      "id": "ts-potato-1.20.1",
+      "name": "Skyblock Burgeria",
+      "description": "Skyblock Burgeria v2.3 - Minecraft 1.20.1",
+      "icon": null,
+      "version": "2.3.0",
+      "address": "mc1.tshosts.com:25565",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "ts-potato",
+        "largeImageText": "ts-potato",
+        "largeImageKey": "ts-potato"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "name": "Skyblock Burgeria",
+          "type": "modpack",
+          "version": "2.3.0",
+          "path": "mods/Skyblock Burgeria-v2.3.zip"
+        }
+      ]
+    }
+  ]
+}

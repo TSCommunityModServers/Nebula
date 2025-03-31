@@ -1,3 +1,7 @@
+npm start -- recommended-forge 1.20.1
+npm start -- g server ts-potato 1.20.1 47.4.0
+npm start -- g distro
+
 # Nebula
 
 Generate a distribution.json for Helios. Documentation on this format can be found [here][distro.md].
