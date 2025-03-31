@@ -1,3 +1,15 @@
+# Cache
+cache/
+
+# Libraries
+libraries/
+
+# Repo
+repo/
+
+# Forge Mods
+forgemods/
+
 # Build directory
 dist
 

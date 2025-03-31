@@ -3,9 +3,10 @@
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
-      "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "clientId": "1234567890",
+      "smallImageText": "ts-potato",
+      "smallImageKey": "ts-potato",
+      "invite": "36cs84kbN7"
     }
   }
 }
