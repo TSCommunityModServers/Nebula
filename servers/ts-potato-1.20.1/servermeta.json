@@ -5,7 +5,7 @@
     "name": "TS Potato",
     "description": "Skyblock Burgeria v2.3 - Minecraft 1.20.1",
     "icon": null,
-    "address": "mc1.tshosts.com:25565",
+    "address": "mc1.tshosts.com",
     "mainServer": true,
     "autoconnect": true
   },

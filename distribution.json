@@ -14,7 +14,7 @@
       "description": "Skyblock Burgeria v2.3 - Minecraft 1.20.1",
       "icon": null,
       "version": "2.3.0",
-      "address": "mc1.tshosts.com:25565",
+      "address": "mc1.tshosts.com",
       "minecraftVersion": "1.20.1",
       "mainServer": true,
       "autoconnect": true,
