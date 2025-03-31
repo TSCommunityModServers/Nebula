@@ -1,8 +1,6 @@
 # Cache
 cache/
 
-# Libraries
-libraries/
 
 # Build directory
 dist
