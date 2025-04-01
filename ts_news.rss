@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+    <channel>
+        <title>TSCommunityModServers News</title>
+        <link></link>
+        <description>最新的模組服務器新聞和更新</description>
+        <language>zh-TW</language>
+        <item>
+            <title>歡迎來到 TSCommunityModServers！</title>
+            <link></link>
+            <pubDate>Wed, 4 Apr 2025 10:22:00 +0800</pubDate>
+            <dc:creator>TS模組伺服器社群 工程人員</dc:creator>
+            <content:encoded><![CDATA[
+                <h1>歡迎來到 TSCommunityModServers！</h1>
+                <p>我們很高興地宣布 TSCommunityModServers(Helios) 正式啟動！</p>
+                <p>在這裡，您可以：</p>
+                <ul>
+                    <li>體驗小雷精心製作的模組遊戲</li>
+                    <li>與其他玩家一起探索</li>
+                    <li>參與社區活動</li>
+                </ul>
+                <p>開始您的冒險吧！</p>
+            ]]></content:encoded>
+            <slash:comments>0</slash:comments>
+        </item>
+    </channel>
+</rss>
