@@ -11,20 +11,18 @@
         <item>
             <title>歡迎來到 TSCommunityModServers！</title>
             <link></link>
-            <pubDate>Wed, 4 Apr 2025 10:22:00 +0800</pubDate>
+            <pubDate>Wed, 4 Apr 2025 10:32:00 +0800</pubDate>
             <dc:creator>TS模組伺服器社群 工程人員</dc:creator>
             <content:encoded><![CDATA[
                 <h1>歡迎來到 TSCommunityModServers！</h1>
-                <p>我們很高興地宣布 TSCommunityModServers(Helios) 正式啟動！</p>
+                <p>我們很高興宣布宣布 TSCommunityModServers(Helios開源) 正式啟動！</p>
                 <p>在這裡，您可以：</p>
-                <ul>
-                    <li>體驗小雷精心製作的模組遊戲</li>
-                    <li>與其他玩家一起探索</li>
-                    <li>參與社區活動</li>
-                </ul>
+                <p>- 體驗各服主精心製作的模組伺服器</p>
+                <p>- 與其他玩家一起探索</p>
+                <p>- 參與社群活動</p>
                 <p>開始您的冒險吧！</p>
             ]]></content:encoded>
             <slash:comments>0</slash:comments>
         </item>
     </channel>
-</rss>
+</rss> 
